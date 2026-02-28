@@ -7,3 +7,9 @@ Toto je prvni uprava meho uzasneho dokumentu.
 DRUHA UPRAVA
 
 Tohle jsem do toho dokumenhtu nove pridal.
+
+-----
+
+TRETI UPRAVA
+
+Blabla bla blablalblabla!
