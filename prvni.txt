@@ -1,1 +1,17 @@
 Toto je obsah prvniho dokumentu, ktery je vlastne druhy dokument.
+
+
+1. Prázdnou složku "projektu"
+2. Ve složce sputili git init
+3. Přidáme soubory, provedeme změny
+4. Staging změn → připravíme soubory na commit
+   pomocí git add .  (nebo git add soubor.txt)
+5. Provedeme commit pomocí git commit -m "Název commitu"
+
+
+git status → zkontroluji stav repozitáře
+git log → zobrazím historii commitů
+git log --oneline --all --graph
+
+git checkout 123456   → vrátím do bodu v historii
+git checkout main   → vrátím do posledního nejnovějšího commitu
