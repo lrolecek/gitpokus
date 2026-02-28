@@ -2,3 +2,8 @@ PRVNI UPRAVA
 
 Toto je prvni uprava meho uzasneho dokumentu.
 
+--------------
+
+DRUHA UPRAVA
+
+Tohle jsem do toho dokumenhtu nove pridal.
